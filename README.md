@@ -19,12 +19,6 @@ This repository contains the source code for a simple ToDo application built usi
 Check out the live demo of the ToDo App: [https://todo-app-78rm.onrender.com/](https://todo-app-78rm.onrender.com/)
 
 Creating a Custom list by specifying the list name at the end of the URL: [https://todo-app-78rm.onrender.com/Name](https://todo-app-78rm.onrender.com/Name)
-
-#### ScreenShot:
-<img
-  src="UI_Screenshot.png"
-  alt="UI"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
   
 ## Features
 
