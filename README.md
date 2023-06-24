@@ -3,7 +3,7 @@
 ![GitHub](https://img.shields.io/github/license/karanprasadgupta/ToDo-App)
 ![GitHub last commit](https://img.shields.io/github/last-commit/karanprasadgupta/ToDo-App)
 
-This repository contains the source code for a simple ToDo application built using Node.js and Express. The app allows users to create, manage, and track their daily tasks. User support has not been implemented; a common task list/ Database is used to store tasks. However, can create their own custom list by changing URL.
+This repository contains the source code for a simple ToDo application built using Node.js and Express. The app allows users to create, manage, and track their daily tasks. User support has not been implemented; a common task list/Database is used to store tasks. However, can create their own custom list by changing URL.
 
 ## Table of Contents
 
@@ -19,7 +19,12 @@ This repository contains the source code for a simple ToDo application built usi
 Check out the live demo of the ToDo App: [https://todo-app-78rm.onrender.com/](https://todo-app-78rm.onrender.com/)
 
 Creating a Custom list by specifying the list name at the end of the URL: [https://todo-app-78rm.onrender.com/Name](https://todo-app-78rm.onrender.com/Name)
-  
+
+#### &nbsp; Screenshot:
+<p align="center">
+  <img src="./public/demo.png" alt="Demo Image" width="560" /> 
+</p>
+
 ## Features
 
 - User-friendly interface for managing tasks
