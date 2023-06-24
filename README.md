@@ -20,6 +20,8 @@ Check out the live demo of the ToDo App: [https://todo-app-78rm.onrender.com/](h
 
 Creating a Custom list by specifying the list name at the end of the URL: [https://todo-app-78rm.onrender.com/Name](https://todo-app-78rm.onrender.com/Name)
 
+#### ScreenShot:
+![UI](UI_Screenshot.png)
 ## Features
 
 - User-friendly interface for managing tasks
